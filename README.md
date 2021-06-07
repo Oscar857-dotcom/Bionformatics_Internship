@@ -20,4 +20,26 @@ My goals for this internship is to is to acquire;Statistical skills through R an
 
 As a plant scientist interested in genetics and bionformatics,skills,knowledge,exposure and network that I will create and gain through my career path,will propel me to becoming a leading scientist in breeding and genotyping in the field of plant genomics.My vision is to have experience in DNA sequencing,genome annotations,sequence assembly,analysis of gene expressions,analysis of protein expressions and comparative genomics.
 
+
 I am confident that this internship training at ICIPE is well designed to helping gaining these skills and knowledge that will propel me to attaining my goals.
+
+
+# Road map
+
+The Bionformatics internship at ICIPE provides the ideal ground and environment to learning,gaining skills and knowledge in bionformtics and genomics.It has experts endored in these fields in Bionformatics.Morever,the intership has a well outlined programm that will help to follow trough and assist task management;One month training and three months being attached to a project where by I will be tasked to learn as well as utilise my learnt skills in bionformatics.My Goal is to ensure that through their expertise and through them and their help i have attained expeptional skills,exposure and knowledge that will enable me in attaining my short term vision and goals as well as my long term vision and goals.
+
+## Milestones
+
+# Introduction to collaborrative tools;
+  *[Git and Github]
+  *[Slack communication]
+# Project organization
+# Open science.
+  *[Reproducible genomic data analysis]
+  *[Genomics Data Management Plan]
+
+
+
+
+
+
