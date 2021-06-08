@@ -9,8 +9,8 @@ I am Oscar Mwaura. I did a Bachelor of Science in Botany_(*plant science*) at Pw
 
 This document provides my vision and my roadmap for my research work and career.
 
-* [Short term vision]
-* [long term vision]
+*  [Short term vision](Short-term-vision)
+*  [long term vision](Long-term-vision)
 
 ## Short term vision.
 
