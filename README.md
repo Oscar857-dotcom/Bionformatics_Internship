@@ -1,11 +1,11 @@
 # Bionformatics_Internship
-*Gain and cquire state of the art skills in bionformatics through sequencing,analysis and programming that will be provided here at ICIPE*.
+*Gain and acquire state of the art skills in bioinformatics through sequencing, analysis and programming that will be provided here at ICIPE*.
 
 # Hello!!
 
-# Welcome to my journey in Bionformatics
+# Welcome to my journey in Bioinformatics
 
-I am Oscar Mwaura.I did Bachelor of science in Botany_(*plant science*) at Pwani University.I am highly motivated plant scientist passionate about and fasinated in genetics and bionformatics.I am here at ICIPE to gain and acquire state of the art skills in bionformatics and genomics through sequencing,analysis and programming.Moreover ,enhance my exposure and network with leading scientists in the field.
+I am Oscar Mwaura. I did a Bachelor of Science in Botany_(*plant science*) at Pwani University. I am a highly motivated plant scientist passionate about and fascinated by genetics and bioinformatics. I am here at ICIPE to gain and acquire state of the art skills in bioinformatics and genomics through sequencing, analysis and programming. Moreover, enhance my exposure and network with leading scientists in the field.
 
 This document provides my vision and a link to my roadmap for my research work and career.
 
@@ -14,24 +14,24 @@ This document provides my vision and a link to my roadmap for my research work a
 
 ## Short term vision.
 
-My goals for this internship is to is to acquire;Statistical skills through R and phython;programming skills through phython or java tools;Bionformatics skills through tools used for high-throughput sequence data,tools for database search sytems and tools for gathering gene data sets such as ensemble.Morever,attain and incrrease my knwoldge through acquiring skills in project management and reproducable research.In conclusion ,able to develop more insights through attending bionformatics related workshops that will be held throughout the internship period.
+My goals for this internship is to acquire; Statistical skills through R and python; programming skills through python or java tools; Bioinformatics skills through tools used for high-throughput sequence data, tools for database search systems and tools for gathering gene data sets such as ensemble. Moreover, attain and increase my knowledge through acquiring skills in project management and reproducible research. In conclusion, able to develop more insights through attending bioinformatics related workshops that will be held throughout the internship period.
 
 ## Long term vision.
 
-As a plant scientist interested in genetics and bionformatics,skills,knowledge,exposure and network that I will create and gain through my career path,will propel me to becoming a leading scientist in breeding and genotyping in the field of plant genomics.My vision is to have experience in DNA sequencing,genome annotations,sequence assembly,analysis of gene expressions,analysis of protein expressions and comparative genomics.
+As a plant scientist interested in genetics and bioinformatics, the skills, knowledge, exposure and network that I will create and gain through my career path, will propel me to becoming a leading scientist in breeding and genotyping in the field of plant genomics. My vision is to have experience in DNA sequencing, genome annotations, sequence assembly, analysis of gene expressions, analysis of protein expressions and comparative genomics.
 
 
-I am confident that this internship training at ICIPE is well designed to helping gaining these skills and knowledge that will propel me to attaining my goals.
+I am confident that this internship training at ICIPE is well designed to helping to gain the skills and knowledge that will propel me to attaining my goals.
 
 
 # Road map
 
-The Bionformatics internship at ICIPE provides the ideal ground and environment to learning,gaining skills and knowledge in bionformtics and genomics.It has experts endored in these fields in Bionformatics.Morever,the intership has a well outlined programm that will help to follow trough and assist task management;One month training and three months being attached to a project where by I will be tasked to learn as well as utilise my learnt skills in bionformatics.My Goal is to ensure that through their expertise and through them and their help i have attained expeptional skills,exposure and knowledge that will enable me in attaining my short term vision and goals as well as my long term vision and goals.
+The Bioinformatics internship at ICIPE provides the ideal ground and environment to learning, gaining skills and knowledge in bioinformatics and genomics. It has experts endorsed in these fields in Bioinformatics. Moreover, the internship has a well-outlined programme that will help to follow through and assist task management; One month of training and three months being attached to a project whereby I will be tasked to learn as well as utilise my learnt skills in bioinformatics. My goal is to ensure that through their expertise and them and their help I have attained exceptional skills, exposure and knowledge that will enable me in attaining my short term vision and goals as well as my long term vision and goals.
 
 # Milestones
 
-## Introduction to collaborrative tools;
-  -Git and Github .
+## Introduction to collaborative tools;
+  -Git and Github.
   -Slack communication.
   
 ## Project organization
@@ -48,7 +48,7 @@ The Bionformatics internship at ICIPE provides the ideal ground and environment 
     
  ## Mini project
     
-## Complited Milestones.
+## Completed Milestones.
  - ### Introduction to collaborrative tools;
   -Git and Github .
   -Slack communication.
