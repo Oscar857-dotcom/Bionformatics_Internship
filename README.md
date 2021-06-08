@@ -7,7 +7,7 @@
 
 I am Oscar Mwaura. I did a Bachelor of Science in Botany_(*plant science*) at Pwani University. I am a highly motivated plant scientist passionate about and fascinated by genetics and bioinformatics. I am here at ICIPE to gain and acquire state of the art skills in bioinformatics and genomics through sequencing, analysis and programming. Moreover, enhance my exposure and network with leading scientists in the field.
 
-This document provides my vision and a link to my roadmap for my research work and career.
+This document provides my vision and my roadmap for my research work and career.
 
 * [Short term vision]
 * [long term vision]
@@ -32,6 +32,7 @@ The Bioinformatics internship at ICIPE provides the ideal ground and environment
 
 ## Introduction to collaborative tools;
   -Git and Github.
+  
   -Slack communication.
   
 ## Project organization
@@ -50,9 +51,11 @@ The Bioinformatics internship at ICIPE provides the ideal ground and environment
     
 ## Completed Milestones.
  - ### Introduction to collaborrative tools;
-  -Git and Github .
+  -Git and Github.
+  
   -Slack communication.
-  -### Project organization
+  
+  - ### Project organization
 
 
 
