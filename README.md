@@ -18,7 +18,7 @@ My goals for this internship is to acquire; Statistical skills through R and pyt
 
 ## Long term vision.
 
-As a plant scientist interested in genetics and bioinformatics, the skills, knowledge, exposure and network that I will create and gain through my career path, will propel me to becoming a leading scientist in breeding and genotyping in the field of plant genomics. My vision is to have experience in DNA sequencing, genome annotations, sequence assembly, analysis of gene expressions, analysis of protein expressions and comparative genomics.
+As a plant scientist interested in genetics and bioinformatics, the skills, knowledge, exposure and network that I will create and gain through my career path, will propel me to becoming a leading scientist in breeding and genotyping in the field of plant genomics. My vision is to have experience in DNA sequencing, genome annotations, sequence assembly, analysis of gene expressions, analysis of protein expressions and comparative genomics in plants.
 
 
 I am confident that this internship training at ICIPE is well designed to helping to gain the skills and knowledge that will propel me to attaining my goals.
